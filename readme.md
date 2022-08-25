@@ -13,8 +13,8 @@
 
 ## Live Link of the Project:
 
-[Live Project Link]()
+[Live Project Link](https://mk-rode.netlify.app/)
 
 ## Output:
 
-![Wireless Headphone]()
+![Wireless Headphone](./18.png)
